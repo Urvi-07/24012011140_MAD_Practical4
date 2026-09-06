@@ -16,7 +16,7 @@ This application demonstrates how to schedule tasks in Android using the `AlarmM
  
 <table> 
   <tr> 
-    <td><img src="screenshots/ss1.png" width="300" alt="Main UI"></td> 
+    <td><img src="screenshots/ss1_new.png" width="300" alt="Main UI"></td> 
     <td><img src="screenshots/ss2.png" width="300" alt="Time Picker"></td> 
     <td><img src="screenshots/ss3.png" width="300" alt="Alarm Set"></td> 
   </tr> 
